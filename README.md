@@ -12,7 +12,7 @@
 
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=0D4YCY&hide=["issues"]&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0D4YCY&theme=dark&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=0D4YCY)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0D4YCY&hide_progress=true)
 
