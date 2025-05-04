@@ -4,11 +4,9 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=0D4YCY&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0D4YCY&custom_title=My%20Stack&layout=donut&theme=tokyonight&hide_border=true&hide=roff,shell&exclude_repo=legacy-project)
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0D4YCY&theme=tokyonight&hide_border=true&hide=["issues"]&show_icons=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0D4YCY&theme=tokyonight&hide_border=true" alt="Top Langs"/>
-</div>
 
 <p align="center">
    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
