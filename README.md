@@ -4,8 +4,10 @@
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=0D4YCY&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0D4YCY&custom_title=My%20Stack&layout=donut&theme=tokyonight&hide_border=true&hide=roff,shell&exclude_repo=legacy-project)
+
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=0D4YCY&theme=tokyonight&hide_border=true&hide=["issues"]&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0D4YCY&custom_title=My%20Stack&layout=donut&theme=tokyonight&hide_border=true&hide=roff,shell&exclude_repo=legacy-project)
+
 
 
 <p align="center">
@@ -49,6 +51,6 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=0D4YCY&theme=tokyonight&column=10&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=0D4YCY&theme=tokyonight&column=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
