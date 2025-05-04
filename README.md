@@ -77,4 +77,4 @@
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=dracula&column=10)](https://github.com/ryo-ma/github-profile-trophy)
